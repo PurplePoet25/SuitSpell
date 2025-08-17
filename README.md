@@ -59,8 +59,8 @@ Want SuitSpell to greet you with a card every time you boot up?
 
 ## 📸 Screenshots
 
-*(Replace with actual screenshots of the popup window)*
-![App Example](docs/screenshot.png)
+<img width="372" height="535" alt="image" src="https://github.com/user-attachments/assets/58b3b0f0-b4b8-49ae-9f18-aacc9aa68b18" />
+
 
 ---
 
